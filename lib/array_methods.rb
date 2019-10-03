@@ -14,11 +14,12 @@ end
 
 def using_first(array)
   a = array.first 
-  return a
+  return a    
 end
 
 def using_last(array)
-
+  a = array.last  
+  
 end
 
 def using_size(array)
