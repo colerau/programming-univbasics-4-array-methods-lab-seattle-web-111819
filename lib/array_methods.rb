@@ -9,6 +9,7 @@ end
 
 def using_reverse(array)
   a = array.reverse
+  return a
 end
 
 def using_first(array)
