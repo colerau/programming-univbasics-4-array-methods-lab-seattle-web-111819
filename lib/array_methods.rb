@@ -19,7 +19,7 @@ end
 
 def using_last(array)
   a = array.last  
-  
+  return a
 end
 
 def using_size(array)
